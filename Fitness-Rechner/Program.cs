@@ -4,8 +4,13 @@
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Gebe dein Körpergröße in cm ein:");
+            double height = Convert.ToInt16(Console.ReadLine());
             Console.WriteLine("Gebe dein Gewicht in Kg ein:");
             int weight = Convert.ToInt16(Console.ReadLine());
+            
+            Console.WriteLine(calc_BMI(height,weight));
+            
             
             // Shows the the Headline für the MainMenu.
             void Show_Headline()
@@ -37,7 +42,11 @@
                 return 0.9 * weight * 24;
             }
 
-            // float calc_BMI(int height, int weight)
+            double calc_BMI(double height, int weight)
+            {
+                Console.WriteLine("Dein BodyMassIndex liegt bei: ");
+                return Math.Round(Math.Pow(height, 2) / (weight) / 10, 1);
+            }
         }
 
     }
