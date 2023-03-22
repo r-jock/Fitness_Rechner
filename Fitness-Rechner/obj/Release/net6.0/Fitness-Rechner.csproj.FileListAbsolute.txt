@@ -1,0 +1,15 @@
+C:\Users\renew\OneDrive\Desktop\C#\CSharp_projects\Fitness_Rechner\Fitness-Rechner\bin\Release\net6.0\Fitness-Rechner.exe
+C:\Users\renew\OneDrive\Desktop\C#\CSharp_projects\Fitness_Rechner\Fitness-Rechner\bin\Release\net6.0\Fitness-Rechner.deps.json
+C:\Users\renew\OneDrive\Desktop\C#\CSharp_projects\Fitness_Rechner\Fitness-Rechner\bin\Release\net6.0\Fitness-Rechner.runtimeconfig.json
+C:\Users\renew\OneDrive\Desktop\C#\CSharp_projects\Fitness_Rechner\Fitness-Rechner\bin\Release\net6.0\Fitness-Rechner.dll
+C:\Users\renew\OneDrive\Desktop\C#\CSharp_projects\Fitness_Rechner\Fitness-Rechner\bin\Release\net6.0\Fitness-Rechner.pdb
+C:\Users\renew\OneDrive\Desktop\C#\CSharp_projects\Fitness_Rechner\Fitness-Rechner\obj\Release\net6.0\Fitness-Rechner.csproj.AssemblyReference.cache
+C:\Users\renew\OneDrive\Desktop\C#\CSharp_projects\Fitness_Rechner\Fitness-Rechner\obj\Release\net6.0\Fitness-Rechner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renew\OneDrive\Desktop\C#\CSharp_projects\Fitness_Rechner\Fitness-Rechner\obj\Release\net6.0\Fitness-Rechner.AssemblyInfoInputs.cache
+C:\Users\renew\OneDrive\Desktop\C#\CSharp_projects\Fitness_Rechner\Fitness-Rechner\obj\Release\net6.0\Fitness-Rechner.AssemblyInfo.cs
+C:\Users\renew\OneDrive\Desktop\C#\CSharp_projects\Fitness_Rechner\Fitness-Rechner\obj\Release\net6.0\Fitness-Rechner.csproj.CoreCompileInputs.cache
+C:\Users\renew\OneDrive\Desktop\C#\CSharp_projects\Fitness_Rechner\Fitness-Rechner\obj\Release\net6.0\Fitness-Rechner.dll
+C:\Users\renew\OneDrive\Desktop\C#\CSharp_projects\Fitness_Rechner\Fitness-Rechner\obj\Release\net6.0\refint\Fitness-Rechner.dll
+C:\Users\renew\OneDrive\Desktop\C#\CSharp_projects\Fitness_Rechner\Fitness-Rechner\obj\Release\net6.0\Fitness-Rechner.pdb
+C:\Users\renew\OneDrive\Desktop\C#\CSharp_projects\Fitness_Rechner\Fitness-Rechner\obj\Release\net6.0\Fitness-Rechner.genruntimeconfig.cache
+C:\Users\renew\OneDrive\Desktop\C#\CSharp_projects\Fitness_Rechner\Fitness-Rechner\obj\Release\net6.0\ref\Fitness-Rechner.dll
